@@ -76,7 +76,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
     `sh -c "$(curl -fsSL https://git.io/JqgsR)"`
   - For Windows Users:
     `cd desktop ; wget https://git.io/JY9JI -o ultroid.py ; python ultroid.py`
-- Fill your details in a `.env` file, as given in [`.env.sample`](https://github.com/TeamUltroid/Ultroid/blob/main/.env.sample).
+- Fill your details in a `.env` file, as given in [`.env.sample`](https://github.com/Athoyee/Ultroid/blob/main/.env.sample).
 (You can either edit and rename the file or make a new file named `.env`.)
 - Run the bot:
   - Linux Users:
